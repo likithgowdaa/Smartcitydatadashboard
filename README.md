@@ -247,7 +247,7 @@ Academic Project © 2026
 # 👨‍💻 Author
 
 **Likith R**
-  
+**Mini Project**
   ## Running the code
 
   Run `npm i` to install the dependencies.
