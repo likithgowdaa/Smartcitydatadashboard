@@ -254,3 +254,4 @@ Academic Project © 2026
 
   Run `npm run dev` to start the development server.
   
+  **Fixed all the bugs**
