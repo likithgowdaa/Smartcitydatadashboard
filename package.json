@@ -61,4 +61,3 @@
           "build": "vite build"
       }
   }
-print ("Dashboard preview")
